@@ -1,0 +1,9 @@
+1、
+URL：http://yw-vpn.mengniu.cn/portal/#!/login
+Username：admin
+Password：admin
+
+2、
+URL：http://ssl-vpn.mengniu.cn/portal/#!/login 
+Username：admin
+Password：admin
